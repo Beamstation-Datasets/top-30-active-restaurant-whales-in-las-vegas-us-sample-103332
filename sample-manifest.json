@@ -1,0 +1,12 @@
+{
+  "export_job_id": "272b7ed0-be1f-4637-9c88-08c8da152f02",
+  "id_short": 103332,
+  "published_at": "2026-04-10T19:03:46Z",
+  "repo_name": "top-30-active-restaurant-whales-in-las-vegas-us-sample-103332",
+  "sample_asset_name": "beamstation_103332_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/103332/beamstation_103332_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 95,
+  "sample_sha256": "f59755e3faa3e3938283a094657056be07e07c30b8e430ac50cc83292a4afd94",
+  "sample_size_bytes": 411144,
+  "total_records": 954
+}
