@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Las Vegas, US",
-  "export_job_id": "272b7ed0-be1f-4637-9c88-08c8da152f02",
+  "export_job_id": "1bdeaf22-22d7-4fa1-869c-c827ed5fd531",
   "github_org": "Beamstation-Datasets",
   "id_short": 103332,
   "location_name": "Las Vegas",
@@ -14,9 +14,9 @@
   "repo_name": "top-30-active-restaurant-whales-in-las-vegas-us-sample-103332",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/103332/beamstation_103332_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 95,
-  "sample_sha256": "f59755e3faa3e3938283a094657056be07e07c30b8e430ac50cc83292a4afd94",
-  "sample_size_bytes": 411144,
-  "total_records": 954,
-  "updated_at": "2026-04-07T17:42:25.781058+00:00"
+  "sample_records": 98,
+  "sample_sha256": "5db819d3547a72ce7b42c2b078ae64a1f79fdf068f29faec554755a0deb570fe",
+  "sample_size_bytes": 439476,
+  "total_records": 984,
+  "updated_at": "2026-04-14T23:14:57.007304+00:00"
 }
