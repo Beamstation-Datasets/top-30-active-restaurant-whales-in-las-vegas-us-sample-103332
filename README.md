@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Las Vegas, US
 
-> Free BeamStation sample export with 98 rows and masked direct-contact fields.
+> Free BeamStation sample export with 79 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `103332` |
 | Location | Las Vegas |
 | Category | Restaurants |
-| Full dataset size | 984 records |
-| Free sample size | 98 records (9.96%) |
-| Last export | 2026-04-14T23:14:57.007304+00:00 |
+| Full dataset size | 793 records |
+| Free sample size | 79 records (9.96%) |
+| Last export | 2026-04-22T02:42:28.915996+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-las-vegas-us-sample-103332/releases/download/sample-latest/beamstation_103332_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
